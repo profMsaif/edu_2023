@@ -1,1 +1,1 @@
-# edu_2023
+# education_2023
